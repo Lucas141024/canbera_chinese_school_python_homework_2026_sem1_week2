@@ -4,28 +4,28 @@
 
 # -------------------------
 # Part 0 – Write Your Name
-# -------------------------
+# lucas-------------------------
 
 # TODO: Write your name inside the quotes
-student_name = ""
+student_name = "lucas"
 
 print("Student Name:", student_name)
 
 # -------------------------
 # Part 1 – Multiple Choice
-# -------------------------
+# 
 
 # Write your answers below.
 # Example: answer1 = "A"
 
 # TODO: Write your answer for Question 1
-answer1 = ""
+answer1 = "Lucas_is_on_the_playground"
 
 # TODO: Write your answer for Question 2
-answer2 = ""
+answer2 = "Lucas_isonthemoon"
 
 # TODO: Write your answer for Question 3
-answer3 = ""
+answer3 = "Lucas_is_on_the_roof”
 
 print("Your answers:")
 print("Q1:", answer1)
